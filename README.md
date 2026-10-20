@@ -48,13 +48,13 @@ I build software that solves a specific data or automation problem rather than s
 
 ### Featured Projects
 
-**[AI Logistics Rate Intelligence Agent](https://github.com/subburajan-perumal)** *(2026)*
+**[AI Logistics Rate Intelligence Agent](https://github.com/subburajan-perumal/logistics-rate-rag)** *(2026)*
 Multi-modal document intelligence system parsing freight rates from PDFs and Excel files. Uses token optimization for table hierarchies and eliminates LLM hallucinations in financial data.
 
-**[Serverless Tariff Ingestion Pipeline](https://github.com/subburajan-perumal)** *(2026)*
+**[Serverless Tariff Ingestion Pipeline](https://github.com/subburajan-perumal/logistics-rate-pipeline)** *(2026)*
 Event-driven ETL on Cloud Run processing carrier rate workbooks, with zero-downtime onboarding via declarative JSON recipes.
 
-**[Rate Matrix Normalizer](https://github.com/subburajan-perumal)** *(2026)*
+**[Rate Matrix Normalizer](https://github.com/subburajan-perumal/logistics-rate-pipeline)** *(2026)*
 End-to-end transformation pipeline for freight rate standardization, using a dual-pipeline architecture to achieve an 80% turnaround reduction.
 
 ---
